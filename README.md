@@ -16,5 +16,6 @@ import requests
 ![img_url_3](https://github.com/cj20200112/GPT-API/assets/166897672/55da8302-7406-42af-80df-52b51e3bc19e)  
 
 聊天機器人-情境帶入
+![image](https://github.com/cj20200112/GPT-API/assets/166897672/4f79f1d7-8dc1-46a7-9fb7-f765cc3f1d05)
 
 
