@@ -2,11 +2,7 @@
 此專案串接GPT提供之API，使用Dalle編輯圖片，以及聊天機器人情境帶入  
 
 # 使用套件
-!pip install openai  
-!pip install python-dotenv  
-from openai import OpenAI  
-from dotenv import dotenv_values  
-import requests  
+python-dotenv、dotenv_values、OpenAI、requests
 
 # 效果展示
 圖片生成-睡覺的狗狗  
